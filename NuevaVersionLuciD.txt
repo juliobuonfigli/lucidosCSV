@@ -1,0 +1,7 @@
+Proxima versión
+-El usuario agrega nuevos parámetros a su antojo
+-El nuevo parámetro agregado guarda el día en que fue agregado para que las estadísticas para dicho parámetro empiecen ese día
+-List<JCheckBox> 
+-Siesta son otros archivos pero los cargo con el mismo programa xq ahora podría elegir el destino donde lee y donde escribe
+-Las variables de cada grupo (recu, sentF, sentL, progCB, progTF) las agrega el usuario y quedan almacenadas en otro CSV
+-Iniciar otra rama
